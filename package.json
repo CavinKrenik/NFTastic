@@ -1,0 +1,12 @@
+{
+  "name": "nftastic-site",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0",
+    "react-testing-library": "^12.0.0"
+  }
+}
