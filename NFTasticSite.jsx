@@ -8,7 +8,7 @@ import { ethers } from "ethers";
 
 const client = create({ url: "https://ipfs.io" });
 
-const CONTRACT_ADDRESS = "0xE405360d19Fe3aC8ac98af16"; // Replace with actual deployed contract address
+const CONTRACT_ADDRESS = "0xE405360d19Fe3aC8ac98af160E21FBc2494ebb3C"; // Replace with actual deployed contract address
 const CONTRACT_ABI = [
   {
     "inputs": [
